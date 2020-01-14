@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="lang/en_US.qm">../CTTDStorage/res/lang/en_US.qm</file>
+        <file alias="images/login/icon-close.png">../CTTDStorage/res/images/login/icon-close.png</file>
+        <file alias="images/login/icon-user.png">../CTTDStorage/res/images/login/icon-user.png</file>
+        <file alias="images/login/icon-downArrow.png">../CTTDStorage/res/images/login/icon-downArrow.png</file>
+        <file alias="images/popup/icon-send.png">../CTTDStorage/res/images/popup/icon-send.png</file>
+        <file alias="images/main/icon-refresh.png">../CTTDStorage/res/images/main/icon-refresh.png</file>
+        <file alias="images/main/icon-search.png">../CTTDStorage/res/images/main/icon-search.png</file>
+        <file alias="images/main/icon-space.png">../CTTDStorage/res/images/main/icon-space.png</file>
+        <file alias="images/main/icon-sharing.png">../CTTDStorage/res/images/main/icon-sharing.png</file>
+        <file alias="images/main/icon-download.png">../CTTDStorage/res/images/main/icon-download.png</file>
+        <file alias="images/main/icon-upload.png">../CTTDStorage/res/images/main/icon-upload.png</file>
+        <file alias="images/ad/img-contatract.png">../CTTDStorage/res/images/ad/img-contatract.png</file>
+        <file alias="images/main/icon-settings.png">../CTTDStorage/res/images/main/icon-settings.png</file>
+        <file alias="images/download/icon-file.png">../CTTDStorage/res/images/download/icon-file.png</file>
+    </qresource>
+</RCC>
